@@ -190,14 +190,21 @@ footer {
     .card {
         padding: 1rem 1.5rem;
         margin-top: 0;
+        min-height: 230px;
     }
 
-    .middle-card {
-        margin-top: 1.5rem;
+     .middle-card {
+       position: relative;
+       top: 50px;
     }
 
     .last-card {
-        margin-top: 3rem;
+       position: relative;
+       top: 100px;
+    }
+
+    footer {
+        margin-top: 6rem;
     }
 
 }
