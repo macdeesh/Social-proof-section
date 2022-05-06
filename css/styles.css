@@ -16,8 +16,8 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    height: 100vh;
-    width: 100%;
+    min-height: 100vh;
+    max-width: 100%;
     margin: 0;
 }
 
@@ -96,7 +96,7 @@ img {
 .card {
     background-color: var(--Very-Dark-Magenta);
     border-radius: 5px;
-    width: 100%;
+    max-width: 100%;
     margin: auto;
     padding: 1.5rem;
     box-sizing: border-box;
