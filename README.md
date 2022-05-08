@@ -10,7 +10,8 @@ This is a solution to the [Social proof section Challenge](https://www.frontendm
 
 ## Screenshot
 
-
+![](./ScreenShot.png)
+ 
 ## Author
 
  - Frontend Mentor - [Macdeesh](https://www.frontendmentor.io/profile/macdeesh)
